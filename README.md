@@ -6,7 +6,7 @@ Harm
 #### 構成
 ```
 Harm  
-|-Bots.txt ......無断転載Botのリスト  
+|-Bots.txt .....無断転載Botのリスト  
 |-Report.txt ...パクリツイッタラーのリスト  
 |-Bomb.txt......爆撃垢のリスト  
 ```
