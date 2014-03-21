@@ -504,6 +504,7 @@ jk_densya
 jk_mio
 JKfan11
 JKJC_aruaru
+JKJC_bot_
 johnnysoku
 jokewwwww_bot
 joshi_mendou
@@ -1105,10 +1106,12 @@ tweet_nagt
 tweet_omoro
 Tweet_ro_bot
 tweet_RT_
+tweet_waro
 twi_tenkomori
 TwifKoko2000
 TwitAA_bot
 twiter_present
+twitwi1233
 twshinrei
 uchino_okan
 udon_marketing
